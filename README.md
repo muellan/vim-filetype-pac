@@ -1,11 +1,9 @@
 # vim-ft-pac
 
-### About
-
-A simple filetype plugin that provides basic syntax highlighting for [AM Simple Packing Format (PAC)](https://github.com/muellan/packing#file-format) files.
+VIM filetype plugin that provides basic syntax highlighting for [AM Simple Packing Format (PAC)](https://github.com/muellan/packing#file-format) files.
 
 
-### Highlight Groups
+## Highlight Groups
 
 ```vim
 hi def link pacNumber       Number
