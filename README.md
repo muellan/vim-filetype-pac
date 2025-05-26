@@ -5,6 +5,8 @@ VIM filetype plugin that provides basic syntax highlighting for [AM Simple Packi
 
 ## Highlight Groups
 
+Default highlighting:
+
 ```vim
 hi def link pacNumber       Number
 hi def link pacSeparator    String
