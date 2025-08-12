@@ -18,5 +18,8 @@ hi def link pacRemaining    Keyword
 hi def link pacFileRef      Type
 hi def link pacEntityType   Type 
 hi def link pacEntityCount  Identifier 
+hi def link pacQuantifier   Macro
+hi def link pacAnnotation   Comment
+hi def link pacSpecialValue String
 ```
 
