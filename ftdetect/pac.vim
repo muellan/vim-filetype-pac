@@ -1,1 +1,1 @@
-autocmd BufNewFile,BufRead *.pac,*.shp set filetype=pac
+autocmd BufNewFile,BufRead *.pac,*.PAC,*.shp,*.SHP set filetype=pac
